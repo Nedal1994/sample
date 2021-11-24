@@ -1,4 +1,4 @@
-## User Story1
+## User Story 1
 
 **Home page**
 
